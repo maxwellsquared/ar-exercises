@@ -33,7 +33,7 @@ Example:
 
     bundle exec ruby exercises/exercise_1.rb
 
-Follow the instructions to work on the exercises within the `exercises` folder. Each exercise is to be completed in it's appropriate file.
+Follow the instructions to work on the exercises within the `exercises` folder. Each exercise is to be completed in its appropriate file.
 
 **IMPORTANT:**
 
