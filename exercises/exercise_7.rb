@@ -10,3 +10,12 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+puts "Enter store name"
+print "> "
+store_name = $stdin.gets.chomp
+
+new_store = Store.create(name: store_name)
+
+for error in new_store.errors.messages
+  puts error
+end
